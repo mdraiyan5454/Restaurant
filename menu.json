@@ -1,0 +1,192 @@
+{
+
+    "showAll": [
+      {
+        "name": "Veg Zinger Burger",
+            "price": "₹99",
+            "ingredients": "The Veg Zinger Burger contains a soft sesame seed bun, a crispy vegetable patty, "
+      },
+      {
+        "name": "Paneer Tikka Pizza",
+            "price": "₹300",
+            "ingredients": "Tandoori paneer, onions, bell peppers, tomatoes, cheese, tikka sauce            "
+      },
+      {
+        "name": "Butter Chicken Pizza",
+            "price": "₹350",
+            "ingredients": " Butter chicken pieces, onions, bell peppers, cheese, butter chicken sauce            "
+      },
+      {
+        "name": "Chicken Supreme Burger",
+            "price": "₹120",
+            "ingredients": "Bun, Grilled Chicken Patty, Lettuce, Tomato, Onion, Cheese, BBQ Sauce, Pickles"
+      },
+      {
+        "name": "Double Cheeseburger",
+            "price": "₹199",
+            "ingredients": "Bun, Two Beef Patties, Lettuce, Tomato, Onion, Double Cheese, Ketchup, Mustard, Pickles"
+      },
+      {
+        "name": "Sprout Salad",
+            "price": "₹90",
+            "ingredients": "Mixed sprouts (mung beans, chickpeas, lentils), chopped vegetables (cucumber, carrots, bell peppers), lemon juice, salt, chaat masala"
+      },
+      {
+        "name": "Cucumber and Peanut Salad",
+            "price": "₹170",
+            "ingredients": "Sliced cucumbers mixed with roasted peanuts, green chilies, and a mustard seed tempering."
+      },
+      {
+        "name": "Fish Fillet Burger",
+            "price": "₹179",
+            "ingredients": " Bun, Fish Fillet, Lettuce, Tomato, Onion, Cheese, Tartar Sauce, Pickles"
+      },
+      {
+        "name": "Chicken Tikka Pizza",
+            "price": "₹330",
+            "ingredients": "Chicken tikka pieces, onions, bell peppers, cheese, tikka sauce            "
+      }
+
+    ],
+
+    "Burger": [
+      {
+        "name": "Veg Zinger Burger",
+            "price": "₹99",
+            "ingredients": "The Veg Zinger Burger contains a soft sesame seed bun, a crispy vegetable patty, "
+      },
+      {
+        "name": "Classic Beef Burger",
+            "price": " ₹150",
+            "ingredients": " Beef patty, lettuce, tomato, onion, cheddar cheese, ketchup, mustard, sesame seed bun"
+      },
+      {
+        "name": "Veggie Delight Burger",
+            "price": "₹120",
+            "ingredients": "Veggie patty (made from beans and vegetables), lettuce, tomato, onion, mozzarella cheese, mayonnaise, whole wheat bun"
+      },
+      {
+        "name": "Chicken Supreme Burger",
+            "price": "₹120",
+            "ingredients": "Bun, Grilled Chicken Patty, Lettuce, Tomato, Onion, Cheese, BBQ Sauce, Pickles"
+      },
+      {
+        "name": "Double Cheeseburger",
+            "price": "₹199",
+            "ingredients": "Bun, Two Beef Patties, Lettuce, Tomato, Onion, Double Cheese, Ketchup, Mustard, Pickles"
+      },
+      {
+        "name": "Fish Fillet Burger",
+            "price": "₹179",
+            "ingredients": " Bun, Fish Fillet, Lettuce, Tomato, Onion, Cheese, Tartar Sauce, Pickles"
+      },
+      {
+        "name": "Mushroom Swiss Burger",
+            "price": "₹110",
+            "ingredients": "Bun, Beef Patty, Lettuce, Tomato, Grilled Mushrooms, Swiss Cheese, Mayonnaise, Pickles"
+      },
+      {
+        "name": "Paneer Tikka Burger",
+            "price": "₹129",
+            "ingredients": "Bun, Paneer Tikka Patty, Lettuce, Tomato, Onion, Cheese, Mint Chutney, Pickles"
+      },
+      {
+        "name": "Turkey Burger",
+            "price": "₹249",
+            "ingredients": "Bun, Turkey Patty, Lettuce, Tomato, Onion, Cheese, Cranberry Sauce, Pickles"
+      }
+
+    ],
+    "Salads": [
+      {
+        "name": "Fruit Chaat",
+            "price": "₹150",
+            "ingredients": "Mixed fruits (apples, bananas, oranges, pomegranate seeds), chaat masala, black salt, lemon juice, sugar"
+      },
+      {
+        "name": "Masoor Salad",
+            "price": "₹120",
+            "ingredients": " Cooked masoor dal (red lentils), chopped onions, tomatoes, green chilies, cilantro, lemon juice, salt"
+      },
+      {
+        "name": "Mixed Vegetable Salad",
+            "price": "₹120",
+            "ingredients": " Mixed vegetables (carrots, bell peppers, cucumbers, radishes), lemon juice, olive oil, salt, pepper"
+      },
+      {
+        "name": "Beetroot Salad",
+            "price": "₹80",
+            "ingredients": "Grated beetroot, grated coconut, green chilies, roasted peanuts, lemon juice, salt"
+      },
+      {
+        "name": "Sprout Salad",
+            "price": "₹90",
+            "ingredients": "Mixed sprouts (mung beans, chickpeas, lentils), chopped vegetables (cucumber, carrots, bell peppers), lemon juice, salt, chaat masala"
+      },
+      {
+        "name": "Cucumber and Peanut Salad",
+            "price": "₹170",
+            "ingredients": "Sliced cucumbers mixed with roasted peanuts, green chilies, and a mustard seed tempering."
+      },
+      {
+        "name": "Moong Dal Salad",
+            "price": "₹140",
+            "ingredients": "Sprouted moong dal (green gram) mixed with onions, tomatoes, green chilies, and lemon juice."
+      },
+      {
+        "name": "Minty Watermelon Salad",
+            "price": "₹99",
+            "ingredients": "Cubed watermelon tossed with mint leaves, feta cheese, and a balsamic glaze."
+      },
+      {
+        "name": "Corn and Capsicum Salad",
+            "price": "₹99",
+            "ingredients": " Sweet corn kernels mixed with diced capsicum, onions, and a lemon dressing."
+      }
+
+    ],
+    "pizza": [
+      {
+        "name": "Mushroom Masala Pizza",
+            "price": "₹299",
+            "ingredients": "Mushroom masala, onions, bell peppers, cheese, masala sauce"
+      },
+      {
+        "name": "Palak Paneer Pizza",
+            "price": "₹320",
+            "ingredients": "Palak paneer, onions, bell peppers, cheese, palak sauce"
+      },
+      {
+        "name": "Samosa Pizza",
+            "price": "₹290",
+            "ingredients": " Samosa filling (potatoes, peas, spices), cheese, mint chutney"
+      },
+      {
+        "name": "Chicken Tikka Pizza",
+            "price": "₹330",
+            "ingredients": "Chicken tikka pieces, onions, bell peppers, cheese, tikka sauce            "
+      },
+      {
+        "name": "Spicy Paneer Pizza",
+            "price": "₹310",
+            "ingredients": "Spicy paneer cubes, jalapenos, onions, cheese, spicy sauce            "
+      },
+      {
+        "name": "Paneer Tikka Pizza",
+            "price": "₹300",
+            "ingredients": "Tandoori paneer, onions, bell peppers, tomatoes, cheese, tikka sauce            "
+      },
+      {
+        "name": "Butter Chicken Pizza",
+            "price": "₹350",
+            "ingredients": " Butter chicken pieces, onions, bell peppers, cheese, butter chicken sauce            "
+      },
+      {
+        "name": "Paneer Tikka Pizza",
+            "price": "₹300",
+            "ingredients": "Tandoori paneer, onions, bell peppers, tomatoes, cheese, tikka sauce            "
+      }
+
+    ]
+
+}
